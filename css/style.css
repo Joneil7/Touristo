@@ -3206,7 +3206,8 @@ body.ie ._ibg img {
 @media (min-width: 767.98px) {
   .btn-subscribe {
     font-weight: 500;
-    font-size: 12px;
+    font-size: 12px; 
+	  height: 72px
     width: 160px;
     border: 2px solid #fff;
     border-radius: 0 8px 8px 0;
